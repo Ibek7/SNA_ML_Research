@@ -1,7 +1,8 @@
 # Research Project Repository
 
 ## Project Name
-**Title**: [Your Research Project Name]
+**Title**: Leveraging Collective Intelligence and AI for Community-Driven Detection and Prevention of Human Trafficking in Africa
+
 
 ## Description
 This repository contains the source code, scripts, and related materials for the research project titled **"Your Project Name Here"**.
