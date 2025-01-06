@@ -5,7 +5,8 @@
 
 
 ## Description
-This repository contains the source code, scripts, and related materials for the research project titled **"Your Project Name Here"**.
+This repository contains the source code, scripts, and related materials for the research project titled **"Leveraging Collective Intelligence and AI for Community-Driven Detection and Prevention of Human Trafficking in Africa
+"**.
 
 ## Folder Structure
 - **/data**: Contains raw and processed datasets.
